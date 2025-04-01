@@ -30,6 +30,13 @@ body {
 .publication-title {
 }
 
+.cvpr-year {
+  font-size: 1.8rem;  /* 调整这个值改变大小 */
+  color: #67AD4B;    /* 调整这个值改变颜色 */
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
 .publication-banner {
   max-height: parent;
 
